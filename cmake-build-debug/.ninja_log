@@ -1,0 +1,26 @@
+# ninja log v5
+1	847	7365065699854970	CMakeFiles/console_game_life.dir/main.cpp.obj	ddabfb9789e782ab
+6	1369	7365069136000489	CMakeFiles/console_game_life.dir/game_logic.cpp.obj	3a1cc0ebc1b3e6b7
+1370	2044	7365069142766280	CMakeFiles/console_game_life.dir/settings.cpp.obj	a8c67dac6ad849ad
+26	8454	7365069206745775	CMakeFiles/console_game_life.dir/menu_page.cpp.obj	28679cf7c62c94e3
+59	8461	7365069206795770	CMakeFiles/console_game_life.dir/rules_page.cpp.obj	6bd7252697f7cd82
+33	8464	7365069206745775	CMakeFiles/console_game_life.dir/pages_utils.cpp.obj	938e7b17e4244e13
+42	8542	7365069207653841	CMakeFiles/console_game_life.dir/settings_page.cpp.obj	58efb3064f49e7f9
+17	8834	7365069210636318	CMakeFiles/console_game_life.dir/game_page.cpp.obj	7d9c65f3e05a40e1
+8835	9212	7365069214354688	console_game_life.exe	c07126c205fc08f0
+21	1501	7365164512423585	CMakeFiles/console_game_life.dir/main.cpp.obj	ddabfb9789e782ab
+15	1927	7365164516693305	CMakeFiles/console_game_life.dir/game_logic.cpp.obj	3a1cc0ebc1b3e6b7
+27	7156	7365164568963375	CMakeFiles/console_game_life.dir/pages_utils.cpp.obj	938e7b17e4244e13
+1503	7166	7365164568993366	CMakeFiles/console_game_life.dir/rules_page.cpp.obj	6bd7252697f7cd82
+37	7176	7365164569184723	CMakeFiles/console_game_life.dir/menu_page.cpp.obj	28679cf7c62c94e3
+42	7214	7365164569564774	CMakeFiles/console_game_life.dir/settings_page.cpp.obj	58efb3064f49e7f9
+6	7382	7365164571250376	CMakeFiles/console_game_life.dir/game_page.cpp.obj	7d9c65f3e05a40e1
+7382	7853	7365164575922630	console_game_life.exe	c07126c205fc08f0
+20	1363	7365167724138898	CMakeFiles/console_game_life.dir/main.cpp.obj	ddabfb9789e782ab
+13	1835	7365167730643628	CMakeFiles/console_game_life.dir/game_logic.cpp.obj	3a1cc0ebc1b3e6b7
+36	4343	7365167755649724	CMakeFiles/console_game_life.dir/pages_utils.cpp.obj	938e7b17e4244e13
+25	4378	7365167755680554	CMakeFiles/console_game_life.dir/settings_page.cpp.obj	58efb3064f49e7f9
+31	4380	7365167755700624	CMakeFiles/console_game_life.dir/menu_page.cpp.obj	28679cf7c62c94e3
+5	4484	7365167757192831	CMakeFiles/console_game_life.dir/game_page.cpp.obj	7d9c65f3e05a40e1
+1364	5108	7365167763455823	CMakeFiles/console_game_life.dir/rules_page.cpp.obj	6bd7252697f7cd82
+5109	5371	7365167766022195	console_game_life.exe	c07126c205fc08f0
